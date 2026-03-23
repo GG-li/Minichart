@@ -1,0 +1,7 @@
+{
+    "openrouter_api_key": "YOUR openrouter_api_key",
+    "openrouter_model": "deepseek/deepseek-v3.2",
+    "openrouter_base_url": "https://openrouter.ai/api/v1/chat/completions",
+    "openrouter_http_referer": "",
+    "openrouter_app_title": "mini_chartqa"
+}
